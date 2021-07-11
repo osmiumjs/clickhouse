@@ -1,7 +1,7 @@
 {
 	"name"           : "@osmium/clickhouse",
 	"description"    : "Osmium ClickHouse wrapper",
-	"version"        : "0.3.11",
+	"version"        : "0.4.0",
 	"license"        : "MIT",
 	"author"         : {
 		"name" : "Vasiliy Isaichkin",
