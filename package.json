@@ -1,0 +1,23 @@
+{
+	"name"           : "@osmium/clickhouse",
+	"description"    : "Osmium ClickHouse wrapper",
+	"version"        : "0.3.11",
+	"license"        : "MIT",
+	"author"         : {
+		"name" : "Vasiliy Isaichkin",
+		"email": "vasiliy@isaichkin.ru"
+	},
+	"repository"     : "https://github.com/osmiumjs/clickhouse",
+	"main"           : "./index.js",
+	"dependencies"   : {
+		"@apla/clickhouse": "~1.6.4",
+		"@osmium/tools"   : "~0.4.1",
+		"bignumber.js"    : "^9.0.1",
+		"is-ipv4-node"    : "^1.0.6",
+		"is-ipv6-node"    : "^1.0.7",
+		"moment"          : "^2.29.1"
+	},
+	"devDependencies": {
+		"@types/moment": "^2.13.0"
+	}
+}
